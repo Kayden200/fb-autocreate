@@ -1,1 +1,5 @@
+node_modules/
+.env
+data/accounts_created.txt
+.DS_Store
 
